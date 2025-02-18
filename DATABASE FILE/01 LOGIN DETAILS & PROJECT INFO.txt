@@ -1,9 +1,6 @@
-**Database Name: carrentalp**
-
-**Developed by Nikhil Amin**
+**Database Name: secyear**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
-
 
 **Customer Login Details**
 
